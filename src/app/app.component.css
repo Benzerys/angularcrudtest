@@ -1,0 +1,13 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.logo-crud {
+  text-decoration: none;
+  color: #fff;
+}
+
+.container:nth-child(2) {
+  padding-top: 20px;
+}
+
